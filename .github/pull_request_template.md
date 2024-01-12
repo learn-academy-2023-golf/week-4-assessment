@@ -1,14 +1,12 @@
-# Submitting Week 4 Assessment
+# Submitting Unit 4 Assessment
 
 ### ✅ Completed Files
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Behavioral Questions
-- [ ] Career Readiness
-- [ ] Coding Challenges
+- [ ] JavaScript Coding Challenges with Jest
 - [ ] Interview Questions
-- [ ] Ruby Challenges
+- [ ] Ruby Challenges with RSpec
 
 ### ✋ Reminder
 
