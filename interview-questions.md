@@ -42,7 +42,7 @@ Answer:
 
 Research and define the following terms.
 
-1. Database migrations:
+1. HTTP:
 
 2. Model validations:
 

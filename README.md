@@ -8,7 +8,7 @@ The step-by-step instructions [here](https://github.com/LEARNAcademy/Syllabus/bl
 
 Assessment should be accessed through the GitHub Classroom link provided to you in Slack.
 
-PRs should be posted _before_ class begins on Monday, January 22, 2024.
+PRs should be posted _before_ class begins on Monday, March 29, 2024.
 
 ---
 

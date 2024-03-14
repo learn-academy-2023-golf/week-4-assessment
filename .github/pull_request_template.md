@@ -1,16 +1,16 @@
 # Submitting Unit 4 Assessment
 
+### ✋ Reminder
+
+Do NOT merge your assessment!
+
 ### ✅ Completed Files
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] JavaScript Coding Challenges with Jest
-- [ ] Interview Questions
-- [ ] Ruby Challenges with RSpec
-
-### ✋ Reminder
-
-Do NOT merge your assessment!
+- [ ] React Challenge
+- [ ] Interview Practice Questions
+- [ ] Looking Ahead Questions
 
 ### 📝 Feedback
 
