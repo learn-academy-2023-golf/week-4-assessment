@@ -1,18 +1,16 @@
-# Submitting Week 4 Assessment
+# Submitting Unit 4 Assessment
+
+### ✋ Reminder
+
+Do NOT merge your assessment!
 
 ### ✅ Completed Files
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Behavioral Questions
-- [ ] Career Readiness
-- [ ] Coding Challenges
-- [ ] Interview Questions
-- [ ] Ruby Challenges
-
-### ✋ Reminder
-
-Do NOT merge your assessment!
+- [ ] React Challenge
+- [ ] Interview Practice Questions
+- [ ] Looking Ahead Questions
 
 ### 📝 Feedback
 
